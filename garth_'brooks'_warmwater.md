@@ -6,10 +6,10 @@ Some amazing quotes and commentary for Garth 'Brooks' Warmwater, the halfing bar
 ## Table of Contents
 
 1. [Inspire Me Garth](#inspire-me-garth) - Inspirational quotes
-    1. [Dwarf 1](#dwarf-1) - Inspiration for <Name>
-    2. [Dwarf 2](#dwarf-2) - Inspiration for <Name>
-    3. [Gnome](#gnome) - Inspiration for <Name>
-    4. [Human](#human) - Inspiration for <Name>
+    1. [Cato](#cato) - Inspiration for Cato
+    2. [Butt](#butt) - Inspiration for Butt
+    3. [Morbius](#morbius) - Inspiration for Morbius
+    4. [Lander](#lander) - Inspiration for Lander
 
 2. [The Insult Master](#the-insult-master) - Vicious mockery
     1. [Orcs](#orcs) - Insults targeted at orcs
@@ -28,9 +28,9 @@ Some amazing quotes and commentary for Garth 'Brooks' Warmwater, the halfing bar
 A collections of inspiration material used by Garth Warmwater via Bardic Inspiriation
 
 
-### Dwarf 1
+### Cato
 
-Inspirational comments for the dwarven druid <Name here>
+Inspirational comments for the dwarven druid Butt
 
 1. Call upon all that is around you, for you draw your Wisdom from all that is living
 2. Let the trees cover you with their branches, the birds watch you their eyes, and the wolves protect you with their fucking teeth and claws
@@ -42,12 +42,12 @@ Inspirational comments for the dwarven druid <Name here>
 8. Unchain the monster within and devour everything, including their souls
 
 
-### Dwarf 2
+### Butt
 
-Inspirational comments for the dwarven barbarian <Name here>
+Inspirational comments for the dwarven barbarian Butt
 
 1. Your muscular form stands as a testiment to all those who wish to perfect their bodies
-2. <Name>, go beat the shit out of them
+2. Butt, go beat the shit out of them
 3. The women are ripe, the men are jelly, now go turn these baddies into pulp
 4. Your stength is a testament to the rest of us, now pay us scripture
 5. Let my words give you strength beyond that which is physical; forming into something beyond this realm
@@ -56,9 +56,9 @@ Inspirational comments for the dwarven barbarian <Name here>
 8. Go put those muscles to good use and send these bastards to hell
 
 
-### Gnome
+### Morbius
 
-Inspirational comments for the gnomish warlock <Name here>
+Inspirational comments for the gnomish warlock Morbius
 
 1. Show them what us shortfolk can really do
 2. Make them scared of the power of magic
@@ -70,9 +70,9 @@ Inspirational comments for the gnomish warlock <Name here>
 8. Bind their fate upon the tip of your blade and free them from their cursed mortal casings
 
 
-### Human
+### Lander
 
-Inspirational comments for the human fighter <Name here>
+Inspirational comments for the human fighter Lander
 
 1. Head my words and sharpen your spear upon them, and eliminate the evil here
 2. May battle baptize you in a flame of fury and rain of pain
