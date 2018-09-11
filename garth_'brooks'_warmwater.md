@@ -10,6 +10,7 @@ Some amazing quotes and commentary for Garth 'Brooks' Warmwater, the halfing bar
     2. [Butt](#butt) - Inspiration for Butt
     3. [Morbius](#morbius) - Inspiration for Morbius
     4. [Lander](#lander) - Inspiration for Lander
+    5. [Manhu](#manhu) - Inspiration for Manhu
 
 2. [The Insult Master](#the-insult-master) - Vicious mockery
     1. [Orcs](#orcs) - Insults targeted at orcs
@@ -82,6 +83,20 @@ Inspirational comments for the human fighter Lander
 6. Your persuit of perfecting the deadly arts of combat drive you to the highest tier of glorious battle
 7. Hey, go fuck all these bastards right in their fucking faces
 8. Drop the god damn hammer on these pieces of shit
+
+
+### Manhu
+
+Inspirational comments for the human (halfling acting) cleric Manhu
+
+1. Your god blesses you with gifts beyond this mortal realm, draw upon them now
+2. Call upon your lord and smite the foes before us
+3. Your knowledge is beyond measure; help us find a solution here
+4. Let your religious beliefs provide us the guidance forward
+5. Smite their evil bodies to ash!
+6. Pass your power of god to us so we can heal our wounds, destroy our enemies, and later, get fucking drunk!!
+7. Smash his fucking face in!
+8. Call upon Saradomin to bless us in our hour of need
 
 
 ## The Insult Master
