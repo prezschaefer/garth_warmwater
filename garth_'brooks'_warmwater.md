@@ -21,7 +21,9 @@ Some amazing quotes and commentary for Garth 'Brooks' Warmwater, the halfing bar
     6. [Demons](#demons) - Insults targeted at demons
     7. [Fey](#fey) - Insults targeted at fey
     8. [Celestial](#celestial) - Insults targeted at celestial
-    9. [Generic](#generic) - Insults for generic usage
+    9. [Dragons](#dragons) - Insults targeted at dragons
+    10. [Monstrosities](#monstrosities) - Insults targeted at monstrosities
+    11. [Generic](#generic) - Insults for generic usage
 
 
 ## Inspire Me Garth
@@ -185,6 +187,16 @@ TBD
 
 
 ### Celestial
+
+TBD
+
+
+### Dragons
+
+TBD
+
+
+### Monstrosities
 
 TBD
 
