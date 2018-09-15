@@ -18,18 +18,20 @@ A set of links to viol (violin) music to set the mood or provide an example of w
 6. [LotR](https://youtu.be/dQiNVk_u0po?t=25s)
 7. [Song of Time](https://youtu.be/CIXCL5VR9Ho?t=22s)
 8. [Les Miserables](https://youtu.be/E5TsA6CHpII?t=25s)
+9. [Rains of Castamere](https://youtu.be/WSJk7G4cWEU)
 
 
 ## Crescendos
 
 1. [Requiem for a Dream](https://youtu.be/f9IA9oOM18A?t=5m33s)
-2. [Crystallize](https://youtu.be/f9IA9oOM18A?t=8m40s)
+2. [Crystallize](https://youtu.be/tocDP2NsSUc?t=1m38s)
 3. [Ember Trio Nada](https://youtu.be/7jftKK-3L54?t=3m45s)
 4. [Phantom of the Opera](https://youtu.be/qpbX7SbXOtU?t=1m9s)
 5. [One Hundres Strings](https://youtu.be/uOk8WdZOjQI?t=1m32s)
 6. [Hallelujah](https://youtu.be/5VzprYCxPBQ?t=1m19s)
-7. [Game of Thrones](https://youtu.be/1yydcG9woWA?t=44s)
+7. [Game of Thrones](https://youtu.be/1yydcG9woWA?t=42s)
 8. [Light of the Seven](https://youtu.be/JI4a8JCRA_s?t=1m53s)
+9. [Interstellar](https://youtu.be/3sUKTPiF3bA?t=1m8s)
 
 
 ## Dance
