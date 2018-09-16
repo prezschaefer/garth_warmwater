@@ -24,7 +24,7 @@ A set of links to viol (violin) music to set the mood or provide an example of w
 ## Crescendos
 
 1. [Requiem for a Dream](https://youtu.be/f9IA9oOM18A?t=5m33s)
-2. [Crystallize](https://youtu.be/tocDP2NsSUc?t=1m38s)
+2. [Crystallize](https://youtu.be/mb2QoaBy8ao?t=1m)
 3. [Ember Trio Nada](https://youtu.be/7jftKK-3L54?t=3m45s)
 4. [Phantom of the Opera](https://youtu.be/qpbX7SbXOtU?t=1m9s)
 5. [One Hundres Strings](https://youtu.be/uOk8WdZOjQI?t=1m32s)
