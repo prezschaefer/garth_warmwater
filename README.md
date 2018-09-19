@@ -29,11 +29,11 @@ Set of links to musical violin inspiring clips that can be used as examples of p
 
 A series of quotes that are used to provide party members with inspiration
 
-[Inspire Me Garth](https://github.com/prezschaefer/garth_warmwater/blob/master/garth_'brooks'_warmwater.md#inspire-me-garth)
+[Inspire Me Garth](https://github.com/prezschaefer/garth_warmwater/blob/master/inspirations.md)
 
 
 ## Vicious Mockery
 
 A set of insults to target against certain monster types to tear them down
 
-[The Insult Master](https://github.com/prezschaefer/garth_warmwater/blob/master/garth_'brooks'_warmwater.md#the-insult-master)
+[The Insult Master](https://github.com/prezschaefer/garth_warmwater/blob/master/mockery.md)
