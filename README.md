@@ -6,9 +6,10 @@ A collection of historical documentation, lifestyle, and common resources for th
 ## Table of Contents
 
 1. [Character Sheets](#character-sheets) - Links to character sheet PDF's, typically by level
-2. [Musical Inspiration](#musical-inspiration) - Set of links to inspiration music clips for use as performances
-3. [Bardic Inspiration](#bardic-inspiration) - Link to Bard Inspiriation quotes
-4. [Vicious Mockery](#vicious-mockery) - Link to Vicious Mockery insults
+2. [Historical Accounts](#historical-accounts) - Set of songs (historical accounts) of Garth's journeys
+3. [Musical Inspiration](#musical-inspiration) - Set of links to inspiration music clips for use as performances
+4. [Bardic Inspiration](#bardic-inspiration) - Link to Bard Inspiriation quotes
+5. [Vicious Mockery](#vicious-mockery) - Link to Vicious Mockery insults
 
 
 ## Character Sheets
@@ -16,6 +17,11 @@ A collection of historical documentation, lifestyle, and common resources for th
 Links to character sheet PDF's
 
 - [Level 2](https://github.com/prezschaefer/garth_warmwater/blob/master/character_sheets/garth_warmwater_lvl_2.pdf)
+
+
+## Historical Accounts
+
+A series of [songs/poems](https://github.com/prezschaefer/garth_warmwater/blob/master/docs/songs/README.md) about Garth's journeys, told through his own eyes. Certain events may be embellished to enhance the entertainment value.
 
 
 ## Musical Inspiration
