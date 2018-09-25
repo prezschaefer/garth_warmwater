@@ -15,7 +15,7 @@ A collection of historical documentation, lifestyle, and common resources for th
 
 Links to character sheet PDF's
 
-- [Level 2](https://github.com/prezschaefer/garth_warmwater/blob/842dcf610a4252ef4d0454790b80aef10946053e/garth_warmwater_lvl_2.pdf)
+- [Level 2](https://github.com/prezschaefer/garth_warmwater/blob/master/character_sheets/garth_warmwater_lvl_2.pdf)
 
 
 ## Musical Inspiration
