@@ -1,3 +1,7 @@
+## Goblin Cave Town
+
+
+```
 We requested an audience with the Duke,
 to explain the hole was no fluke.
 We returned to the inn for the night,
@@ -28,3 +32,4 @@ Back to the inn we took the goblin daughter,
 to prevent her from being in a slaughter.
 This mystery we must unravel,
 if we are to continue our travel.
+```

@@ -1,3 +1,7 @@
+## Our First
+
+
+```
 The Duke had made a declaration,
 we accepted without a hesitation.
 The hole was more than it seemed,
@@ -34,3 +38,4 @@ When they fell asleep we sealed them off,
 we had defeated them, cough...cough.
 And now our journey will continue on,
 it's time to get going, so c'mon!
+```
