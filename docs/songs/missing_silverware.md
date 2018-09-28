@@ -1,3 +1,4 @@
+```
 We all returned to regroup at the inn,
 we knew of the frame but not where to begin.
 We had to find a way to show the deception,
@@ -26,3 +27,4 @@ After I nearly died with an arrow to the heart,
 Manhu caused them to retreat just after the start.
 We brought the silverware back into town,
 now we must find a way to bring Sigmond down.
+```
