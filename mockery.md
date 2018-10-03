@@ -5,18 +5,32 @@ Some amazing quotes and commentary for Garth 'Brooks' Warmwater, the halfing bar
 
 ## Table of Contents
 
-1. [Orcs](#orcs) - Insults targeted at orcs
-2. [Goblins](#goblins) - Insults targeted at goblins
-3. [Beasts](#beasts) - Insults targeted at beasts
-4. [Giants](#giants) - Insults targeted at giants
-5. [Fiends](#fiends) - Insults targeted at fiends
-6. [Demons](#demons) - Insults targeted at demons
-7. [Fey](#fey) - Insults targeted at fey
-8. [Celestial](#celestial) - Insults targeted at celestial
-9. [Dragons](#dragons) - Insults targeted at dragons
-10. [Monstrosities](#monstrosities) - Insults targeted at monstrosities
-11. [Generic](#generic) - Insults for generic usage
+1. [Humans](#humans) - Insults targets at humans or other humanoids
+2. [Orcs](#orcs) - Insults targeted at orcs
+3. [Goblins](#goblins) - Insults targeted at goblins
+4. [Beasts](#beasts) - Insults targeted at beasts
+5. [Giants](#giants) - Insults targeted at giants
+6. [Fiends](#fiends) - Insults targeted at fiends
+7. [Demons](#demons) - Insults targeted at demons
+8. [Fey](#fey) - Insults targeted at fey
+9. [Celestial](#celestial) - Insults targeted at celestial
+10. [Dragons](#dragons) - Insults targeted at dragons
+11. [Monstrosities](#monstrosities) - Insults targeted at monstrosities
+12. [Generic](#generic) - Insults for generic usage
 
+
+## Humans
+
+1. Good thing you don't have a long life span, because your's is over.
+2. Ah, humans...good at a lot of things, especially dying.
+3. All that height, and no brain to use it.
+4. Only a human would expect us all to be friends, you must be so lonely.
+5. You remind me of someone I knew...yeah, he died at the ripe old age of 25.
+6. Just like rabbits, so quick to fuck and so quick to die.
+7. Argo fuck yourself!
+8. Always crying about their mommies those humans are.
+9. Sorry, I'm not interested in screwing another race, that's just you humans that do that.
+10. I'd offer you a drink, but then you'd never leave because you're socially inept or too drunk...you know...your natural state.
 
 ## Orcs
 
