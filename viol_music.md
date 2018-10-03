@@ -48,7 +48,7 @@ A set of links to viol (violin) music to set the mood or provide an example of w
 | 4 | [Ember Denardo](https://youtu.be/7jftKK-3L54?t=6m17s) | No | --- |
 | 5 | [Ember Trio Chainsmokers](https://youtu.be/7jftKK-3L54?t=10m58s) | No | --- |
 | 6 | [Ember Trio Quick](https://youtu.be/7jftKK-3L54?t=20m19s) | No | --- |
-| 7 |  [Star Wars](https://youtu.be/qzQahpxucKk?t=2m10s) | No | --- |
+| 7 |  [Star Wars](https://youtu.be/qzQahpxucKk?t=2m10s) | Yes | 2018/10/02 |
 | 8 | [Song of Storms](https://youtu.be/CIXCL5VR9Ho?t=1m45s) | No | --- |
 
 
