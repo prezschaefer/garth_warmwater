@@ -90,12 +90,30 @@ Some amazing quotes and commentary for Garth 'Brooks' Warmwater, the halfing bar
 
 ## Fiends
 
-TBD
+1. Only a complete fool would turn to such evil deeds as you.
+2. Worshipping the devil will cost you more than your soul.
+3. How about I make you a new deal, perhaps that will end up saving you.
+4. Just another wanna be demon, LAME!
+5. It seems like you thought turning to evil would give you more power, you're about to find out that's not the case.
+6. Umm, excuse me, I think you've made a mistake, because you're about to die...again.
+7. That which is dead...is about to die once again.
+8. I hope you cashed in some big favors, because you're about to need them now.
+9. Did I interrupt your worship? But you better keep trying, because I'm about to send you to him.
+10. You thought turning to evil would give you the power you seek. Such mistakes by fools are typical I guess.
 
 
 ## Demons
 
-TBD
+1. I thought you'd be evil, not incompetent.
+2. Turning to the darkness just doesn't seem to be you.
+3. You've taken the whole evil mindset quite literally. Probably not best.
+4. Was falling this far worth it?!
+5. Let's stick that picthforked tail right up your ass!
+6. Good will always conquer evil, and I'm sorry, but that's going to be you.
+7. You were cast down once, it seems like we'll have to do it again.
+8. Are those horns, or are you just excited to see me?
+9. I'm sorry to say, but that color just isn't you.
+10. It's time to wipe you and your evil from this world.
 
 
 ## Fey
@@ -114,22 +132,49 @@ TBD
 
 ## Celestial
 
-TBD
+1. Even gods can die.
+2. There are those that may pray to you, but you will soon be praying to me.
+3. Your time of power is over, you have no control here any longer.
+4. It won't take the end of this world for you to lose your powers, just me.
+5. Even a god's power will be unable to stop me.
+6. It's your turn for judgement now.
+7. Even a god can be damned.
+8. Take a good look at me, so you can remember who beat you for the rest of time.
+9. I'm not here to meet my maker, I'm here to return you from whence you came.
+10. I don't think praying to yourself is going to help even you.
 
 
 ## Dragons
 
-TBD
+1. Don't choke on your own breath.
+2. Ha! You don't come close to living up to the legends of dragons.
+3. Drgaonscale may be harder than metal, but my words are even sharper.
+4. You are good at collecting gold, but you should've invested it instead.
+5. I think you need a mint, that shit stinks.
+6. You feeling alright?! Perhaps you have indigestion.
+7. Ah, you gonna fly away because you're scared?? Ahhh, too bad.
+8. It doesn't take a genius to figure out you aren't as scary as you try to be.
+9. You remind me of a giant snake, or maybe just a rat that can fly.
+10. I thought dragons were supposed to be smart, guess you are the exception.
 
 
 ## Monstrosities
 
-TBD
+1. You are one ugly mother fucker.
+2. I always heard monsters were real, and now I'm just disappointed.
+3. What are you? Some kind of mutant offspring?
+4. Oh I'm sorry, I almost lost my lunch after seeing you.
+5. Is that your face, it's hard to tell.
+6. I do enjoy seeing new things, it's just odd to see them all together as one.
+7. You must be suffering from some kind of malformation or something, right?
+8. I thought I'd seen some things, but you certainly raised the bar.
+9. Were you always like this, or was there some kind of accident.
+10. I thought you'd be scarier.
 
 
 ## Generic
 
-1. Hahaha! Typical, only a <type> like you would believe you stand a chance against us
+1. Hahaha! Typical, only a --type-- like you would believe you stand a chance against us
 2. Give it up, you're as weak as you look
 3. You may not have any brains, but I'd imagine you'd be smarter than to triffle with us
 4. Go ahead, try to test us, just don't make dinner plans
