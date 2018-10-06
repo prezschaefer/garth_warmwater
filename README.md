@@ -14,9 +14,10 @@ A collection of historical documentation, lifestyle, and common resources for th
 
 ## Character Sheets
 
-Links to character sheet PDF's
+Links to character sheet PDF's. Please keep in mind they do not render well in Github, so you should download it to view it properly.
 
 - [Level 2](https://github.com/prezschaefer/garth_warmwater/blob/master/character_sheets/garth_warmwater_lvl_2.pdf)
+- [Level 3](https://github.com/prezschaefer/garth_warmwater/blob/master/character_sheets/garth_warmwater_lvl_3.pdf)
 
 
 ## Historical Accounts
@@ -26,9 +27,21 @@ A series of [songs/poems](https://github.com/prezschaefer/garth_warmwater/blob/m
 
 ## Musical Inspiration
 
-Set of links to musical violin inspiring clips that can be used as examples of performances by Garth. Includes heart piercing, crescendos, dance, and classical clips.
+Links to inspiring clips of music to use as exmpales of performances by Garth.
+
+
+### Viol Music
+
+Set of links to musical violin inspiring clips that includes heart piercing, crescendos, dance, and classical clips.
 
 [Viol Music](https://github.com/prezschaefer/garth_warmwater/blob/master/viol_music.md)
+
+
+### Other Music
+
+Set of links to additional musical clips on other musical instruments.
+
+[Additional Music](https://github.com/prezschaefer/garth_warmwater/blob/master/additional_music.md)
 
 
 ## Bardic Inspiration
