@@ -23,10 +23,10 @@ A series of links to additional musical inspiration from other instruments. Gart
 
 | # | Song | Played | Date |
 | - |:---- | ------ | ---- |
-| 1 | [Happy Lute](https://www.youtube.com/watch?v=EsWubEZXE6w) | No | --- |
-| 2 | [Renaissance Lute](https://youtu.be/bq126uwwOBo) | No | --- |
-| 3 | [Greensleeves Lute](https://youtu.be/7goe9JYZJS8) | No | --- |
-| 4 | [Stairway to Lute](https://youtu.be/BinS7y6TYy4) | No | --- |
+| 1 | [Happy Lute](https://youtu.be/EsWubEZXE6w?t=1) | No | --- |
+| 2 | [Renaissance Lute](https://youtu.be/bq126uwwOBo?t=1) | No | --- |
+| 3 | [Greensleeves Lute](https://youtu.be/7goe9JYZJS8?t=5) | No | --- |
+| 4 | [Stairway to Lute](https://youtu.be/BinS7y6TYy4?t=1) | No | --- |
 | 5 | [Quick Dragon Guitar](https://youtu.be/7gphiFVVtUI?t=56) | No | --- |
 | 6 | [Interstellar Guitar](https://youtu.be/IuEEEwgdAZs?t=10) | No | --- |
 

@@ -21,6 +21,7 @@ A set of links to viol (violin) music to set the mood or provide an example of w
 | 7 | [Song of Time](https://youtu.be/CIXCL5VR9Ho?t=22s) | No | --- |
 | 8 | [Les Miserables](https://youtu.be/E5TsA6CHpII?t=25s) | No | --- |
 | 9 | [Rains of Castamere](https://youtu.be/WSJk7G4cWEU) | No | --- |
+| 10 | [Dragon Age](https://youtu.be/AuJnvC8voJY?t=1) | No | --- |
 
 
 ## Crescendos
@@ -36,6 +37,7 @@ A set of links to viol (violin) music to set the mood or provide an example of w
 | 7 | [Game of Thrones](https://youtu.be/1yydcG9woWA?t=42s) | No | --- |
 | 8 | [Light of the Seven](https://youtu.be/JI4a8JCRA_s?t=1m53s) | No | --- |
 | 9 | [Interstellar](https://youtu.be/3sUKTPiF3bA?t=1m8s) | No | --- |
+| 10 | [Take Flight](https://youtu.be/QAD0BtEv6-Q?t=35) | No | --- |
 
 
 ## Dance
@@ -48,8 +50,10 @@ A set of links to viol (violin) music to set the mood or provide an example of w
 | 4 | [Ember Denardo](https://youtu.be/7jftKK-3L54?t=6m17s) | No | --- |
 | 5 | [Ember Trio Chainsmokers](https://youtu.be/7jftKK-3L54?t=10m58s) | No | --- |
 | 6 | [Ember Trio Quick](https://youtu.be/7jftKK-3L54?t=20m19s) | No | --- |
-| 7 |  [Star Wars](https://youtu.be/qzQahpxucKk?t=2m10s) | Yes | 2018/10/02 |
+| 7 | [Star Wars](https://youtu.be/qzQahpxucKk?t=2m10s) | Yes | 2018/10/02 |
 | 8 | [Song of Storms](https://youtu.be/CIXCL5VR9Ho?t=1m45s) | No | --- |
+| 9 | [Arena](https://youtu.be/4MCjU-Du3eI?t=90) | No | --- |
+| 10 | [Roar](https://youtu.be/0S10zllZEqU?t=78) | No | --- |
 
 
 ## Classical
@@ -64,3 +68,5 @@ A set of links to viol (violin) music to set the mood or provide an example of w
 | 6 | [Divertimento](https://youtu.be/L5skSFHVJHk?t=6m20s) | No | --- |
 | 7 | [Beethoven](https://youtu.be/d7hVQpyKLGg?t=1h7m29s) | No | --- |
 | 8 | [Violin Sonata](https://youtu.be/z7rxl5KsPjs?t=2m19s) | No | --- |
+| 9 | [Air on G](https://youtu.be/vBCtSOxG-8I?t=2) | No | --- |
+| 10 | [Light Touch](https://youtu.be/ViU1IkBxbsA?t=5965) | No | --- |
