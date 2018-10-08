@@ -5,6 +5,7 @@ A series of links to additional musical inspiration from other instruments. Gart
 1. [Flute Music](#flute-music) - A series of clips of flute featuring music
 2. [Lute Music](#lute-music) - A series of clips of lute, or similar, music
 3. [Lyre Music](#lyre-music) - A series of clips of lyre, or similar, music
+4. [Unproficient Instruments](#unproficient-instruments) - A series of clips of unproficient, shitty, instrumental music
 
 
 ## Flute Music
@@ -41,3 +42,15 @@ A series of links to additional musical inspiration from other instruments. Gart
 | 4 | [One Harp](https://youtu.be/JhOhGhq0e54?t=36) | No | --- |
 | 5 | [Iron Harp](https://youtu.be/3UV-2E8kEqg?t=36) | No | --- |
 | 6 | [Orpheus's Lyre](https://youtu.be/jP-ctPO_-ck?t=23) | No | --- |
+
+
+## Unproficient Instruments
+
+| # | Song | Played | Date |
+| - |:---- | ------ | ---- |
+| 1 | [Titanic Recorder](https://youtu.be/X2WH8mHJnhM?t=190) | No | --- |
+| 2 | [Can't Play Bagpipes](https://youtu.be/oxnAGocrL6E?t=1) | No | --- |
+| 3 | [Clarinet Fail](https://youtu.be/1wbc9Hi8Gno?t=1) | No | --- |
+| 4 | [Trumpet Mess](https://youtu.be/bNwv6iCWxgE?t=6) | No | --- |
+| 5 | [Recorder Impossible](https://youtu.be/e6QZCU9rTiw?t=0) | No | --- |
+| 6 | [Sandstorm Recorder](https://youtu.be/0VZp31nQ-gU?t=16) | No | --- |
