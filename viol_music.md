@@ -53,7 +53,7 @@ A set of links to viol (violin) music to set the mood or provide an example of w
 | 7 | [Star Wars](https://youtu.be/qzQahpxucKk?t=2m10s) | Yes | 2018/10/02 |
 | 8 | [Song of Storms](https://youtu.be/CIXCL5VR9Ho?t=1m45s) | No | --- |
 | 9 | [Arena](https://youtu.be/4MCjU-Du3eI?t=90) | No | --- |
-| 10 | [Roar](https://youtu.be/0S10zllZEqU?t=78) | No | --- |
+| 10 | [Roar](https://youtu.be/0S10zllZEqU?t=50) | No | --- |
 
 
 ## Classical

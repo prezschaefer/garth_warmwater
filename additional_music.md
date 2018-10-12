@@ -15,7 +15,7 @@ A series of links to additional musical inspiration from other instruments. Gart
 | 1 | [Upbeat Flute](https://youtu.be/be1jJCH32OU?t=4) | No | --- |
 | 2 | [Titanic Flute](https://youtu.be/9i2dbxC5GHs?t=133) | No | --- |
 | 3 | [Relaxing Flute](https://youtu.be/xFECNsk5Fo0?t=31) | No | --- |
-| 4 | [Slow Flute](https://youtu.be/xFECNsk5Fo0?t=4744) | No | --- |
+| 4 | [Slow Flute](https://youtu.be/xFECNsk5Fo0?t=4740) | No | --- |
 | 5 | [Sound of Silence](https://youtu.be/y2fiKuDyspo?t=26) | No | --- |
 | 6 | [Quick High](https://youtu.be/Sz40f_geQRo?t=17) | No | --- |
 
