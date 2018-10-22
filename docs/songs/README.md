@@ -14,3 +14,4 @@ Song of Rest for additional healing).
 | [Missing Silverware](missing_silverware.md) | 2018/09/25 | Yes |
 | [Completing the Intro](completing_the_intro.md) | 2018/10/02 | No |
 | [Birds on the Loose](birds_on_the_loose.md) | 2018/10/09 | No |
+| [Pirates off the Stern](pirates_off_the_stern.md) | 2018/10/16 | No |
