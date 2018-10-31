@@ -13,7 +13,7 @@ The party split up at the market,
 so many things for sale, even some carpet.
 I was happy to fine myself a new flute,
 although it would've been great to find a nice lute.
-As we started to regroup I found Cato drolling,
+As we started to regroup I found Cato drooling,
 some hatred inside of him was fueling.
 He had to put his plan of freeing the birds on hold,
 so as to talk with a powerful man; Hassan we'd been told.

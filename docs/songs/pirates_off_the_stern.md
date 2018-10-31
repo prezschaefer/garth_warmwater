@@ -18,7 +18,7 @@ as one fell after losing his grip.
 A reef shark found a nice treat,
 nibbling on his legs and feet.
 As their captain climbed aboard,
-we tried to hold of the pirate hoard.
+we tried to hold off the pirate hoard.
 We were being overwhelmed by their attacks,
 skilled with their saber...or cutlass...or axe?
 Morbius and Butt attacked from a distance,
